@@ -1,1 +1,1 @@
-The script prints absolute path name of the current working directory
+A shell permission task
